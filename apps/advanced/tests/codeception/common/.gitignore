@@ -2,3 +2,6 @@
 /unit/UnitTester.php
 /functional/FunctionalTester.php
 /acceptance/AcceptanceTester.php
+# local config files copied by init
+/codeception.yml
+/unit.suite.yml
